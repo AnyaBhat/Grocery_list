@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "118992632596",
+    "project_id": "grocery-app-4813b",
+    "storage_bucket": "grocery-app-4813b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118992632596:android:d891e8c1738d037f7b6001",
+        "android_client_info": {
+          "package_name": "com.example.grocery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118992632596-9f56mi6ok3h3bl1t5pr21b9bd5ui6j8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grocery_app",
+            "certificate_hash": "9e0663fede4e9573a936a4217b5ce87cf664fc66"
+          }
+        },
+        {
+          "client_id": "118992632596-eqvetilommu1sle7cbogdoflo1050h3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM9oBfPgzvxH_JOSzPvNS560o-rgdvq5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118992632596-eqvetilommu1sle7cbogdoflo1050h3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118992632596:android:2e1f8c0dce1d67047b6001",
+        "android_client_info": {
+          "package_name": "com.example.shopping_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118992632596-eqvetilommu1sle7cbogdoflo1050h3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM9oBfPgzvxH_JOSzPvNS560o-rgdvq5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118992632596-eqvetilommu1sle7cbogdoflo1050h3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
